@@ -1,5 +1,24 @@
 # Business Insights 360
 
+## [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [AtliQ Hardware Business Model](#atliq-hardware-business-model)
+- [Project Charter](#project-charter)
+- [Data Understanding & Model Design](#data-understanding--model-design)
+- [Dashboard Design & Implementation](#dashboard-design--implementation)
+   - [Overview of Dashboard](#overview-of-dashboard)
+   - [Home View](#home-view)
+   - [Finance View](#finance-view)
+   - [Sales View](#sales-view)
+   - [Marketing View](#marketing-view)
+   - [Supply Chain View](#supply-chain-view)
+   - [Executive View](#executive-view)
+- [Key Learnings](#key-learnings)
+- [Tools and Technologies](#tools-and-technologies)
+
 ## Project Overview
 
 AtliQ Hardware is at a pivotal point in its growth. Once a fast-rising player in the global electronics market, the company began facing serious setbacks due to intuition-based decision making. The most critical: a failed expansion into Latin America, where physical stores were opened based on limited surveys — leading to significant financial losses.
