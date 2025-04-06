@@ -208,7 +208,7 @@ This project helped me deepen both my technical expertise and my strategic think
 ### Data Modeling & Preparation
 - Designed an efficient snowflake schema for analytical performance and scalability.
 - Created custom Date tables using M language to support time intelligence.
-- Understood dimensional vs. fact tables, enabling better data relationships.
+- Understood dimension vs. fact tables, enabling better data relationships.
 - Validated and reconciled data across multiple sources (SQL + Excel) to ensure accuracy.
 
 ### DAX & Visual Design
