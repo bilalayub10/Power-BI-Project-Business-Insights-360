@@ -1,6 +1,6 @@
 # Business Insights 360
 
-## [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d529d0a946b224a99b6b)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This Power BI project is AtliQ’s first major step in that transformation. The 
 - Build interactive dashboards for cross-functional teams.
 - Replace Excel-based processes with scalable data models.
 
-[**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) - Explore the dashboard and interact with the reports.
+[**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d529d0a946b224a99b6b) - Explore the dashboard and interact with the reports.
 
 
 I led the design and development of a comprehensive Power BI solution that aligned directly with the company’s business units — Finance, Sales, Marketing, and Supply Chain — helping them answer not just “what happened,” but “why,” “how,” and “what next.”
@@ -199,7 +199,7 @@ The **Executive View** provides a holistic view of business performance, focusin
 
 <img src = "https://github.com/user-attachments/assets/59567f5a-e306-43ae-b217-4023bf7270b1" class="center">
 
-[**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) - Explore full dashboard and interact with the reports.
+[**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzE2M2Q1MWYtODg2MS00M2NjLTg4NjUtMGIwMDJhN2MyY2NiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d529d0a946b224a99b6b) - Explore full dashboard and interact with the reports.
 
 ## Key Learnings
 
